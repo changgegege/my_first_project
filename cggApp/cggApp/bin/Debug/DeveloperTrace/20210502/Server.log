@@ -1,0 +1,966 @@
+2021/05/02 11:53:38 [Server-1] Starting 
+2021/05/02 11:53:38 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 11:53:38 [Server-1] Started 
+2021/05/02 11:53:38 [AutoSet-7] Start 
+2021/05/02 11:53:53 [Server-1] Starting 
+2021/05/02 11:53:53 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 11:53:53 [Server-1] Started 
+2021/05/02 11:53:53 [AutoSet-7] Start 
+2021/05/02 11:54:47 [TcpAccept-3] 192.168.43.1:45202 
+2021/05/02 11:54:48 [869067030577018-192.168.43.1-8] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 11:56:19 [Server-1] Starting 
+2021/05/02 11:56:19 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 11:56:19 [Server-1] Started 
+2021/05/02 11:56:19 [AutoSet-7] Start 
+2021/05/02 11:56:21 [TcpAccept-3] 192.168.43.1:45224 
+2021/05/02 11:59:51 [Server-1] Starting 
+2021/05/02 11:59:51 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 11:59:51 [AutoSet-7] Start 
+2021/05/02 11:59:52 [TcpAccept-3] 192.168.43.1:46704 
+2021/05/02 11:59:52 [TcpAccept-3] 192.168.43.1:46706 
+2021/05/02 13:21:30 [Server-1] Starting 
+2021/05/02 13:21:30 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 13:21:30 [AutoSet-7] Start 
+2021/05/02 13:21:30 [Server-1] Started 
+2021/05/02 13:23:05 [TcpAccept-3] 192.168.43.1:38049 
+2021/05/02 13:23:05 [TcpAccept-8] 192.168.43.1:38053 
+2021/05/02 13:27:41 [Server-1] Starting 
+2021/05/02 13:27:41 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 13:27:41 [Server-1] Started 
+2021/05/02 13:27:41 [AutoSet-7] Start 
+2021/05/02 13:27:42 [TcpAccept-3] 192.168.43.1:39409 
+2021/05/02 13:27:42 [TcpAccept-3] 192.168.43.1:39411 
+2021/05/02 13:31:33 [Server-1] Starting 
+2021/05/02 13:31:33 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 13:31:33 [Server-1] Started 
+2021/05/02 13:31:33 [AutoSet-7] Start 
+2021/05/02 13:31:33 [TcpAccept-3] 192.168.43.1:39851 
+2021/05/02 13:31:33 [TcpAccept-3] 192.168.43.1:39853 
+2021/05/02 13:42:10 [Server-1] Stoping 
+2021/05/02 13:42:10 [TcpAccept-EX-12] 无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。 
+2021/05/02 13:42:10 [869067030577018-1] Stop-StopServer-True-- 
+2021/05/02 13:42:11 [Server-1] Stoped 
+2021/05/02 13:42:11 [AutoSet-7] Stop 
+2021/05/02 13:42:23 [Server-1] Starting 
+2021/05/02 13:42:23 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 13:42:23 [Server-1] Started 
+2021/05/02 13:42:24 [AutoSet-7] Start 
+2021/05/02 13:42:24 [TcpAccept-3] 192.168.43.1:40001 
+2021/05/02 13:56:43 [Server-1] Starting 
+2021/05/02 13:56:43 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 13:56:43 [Server-1] Started 
+2021/05/02 13:56:43 [AutoSet-7] Start 
+2021/05/02 13:56:44 [TcpAccept-3] 192.168.43.1:41297 
+2021/05/02 13:58:25 [ProcessRPCResponseEx-db9d8787-ac7e-4daf-babf-b405fafc77bc-9] System.InvalidOperationException: 端口被关闭。
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 cggApp.watercontrol.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\86135\Desktop\cggApp\cggApp\watercontrol.cs:行号 115
+   在 Smobiler.Core.Controls.Timer.(Object , RPCResultArgs )
+   在 ..( )
+   在 Smobiler.Core.MobileClient.( ) 
+2021/05/02 13:58:25 [869067030577018Dump-BeginDataProcess-9] System.InvalidOperationException: 端口被关闭。
+   在 Smobiler.Core.MobileClient.( )
+   在 Smobiler.Core.MobileClient.( ) 
+2021/05/02 14:08:50 [Server-1] Starting 
+2021/05/02 14:08:50 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 14:08:50 [Server-1] Started 
+2021/05/02 14:08:50 [AutoSet-7] Start 
+2021/05/02 14:08:52 [TcpAccept-3] 192.168.43.1:41413 
+2021/05/02 14:09:19 [Server-1] Starting 
+2021/05/02 14:09:19 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 14:09:19 [Server-1] Started 
+2021/05/02 14:09:19 [AutoSet-7] Start 
+2021/05/02 14:09:29 [TcpAccept-3] 192.168.43.1:41493 
+2021/05/02 14:09:29 [869067030577018-192.168.43.1-10] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 14:23:06 [Server-1] Starting 
+2021/05/02 14:23:07 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 14:23:07 [Server-1] Started 
+2021/05/02 14:23:07 [AutoSet-7] Start 
+2021/05/02 14:23:07 [TcpAccept-3] 192.168.43.1:43027 
+2021/05/02 14:25:13 [Server-1] Starting 
+2021/05/02 14:25:14 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 14:25:14 [Server-1] Started 
+2021/05/02 14:25:14 [AutoSet-7] Start 
+2021/05/02 14:25:17 [TcpAccept-3] 192.168.43.1:43121 
+2021/05/02 14:25:17 [869067030577018-192.168.43.1-10] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 14:25:39 [Server-1] Starting 
+2021/05/02 14:25:39 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 14:25:39 [Server-1] Started 
+2021/05/02 14:25:39 [AutoSet-7] Start 
+2021/05/02 14:25:40 [TcpAccept-3] 192.168.43.1:43191 
+2021/05/02 14:25:40 [869067030577018-192.168.43.1-10] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 14:26:02 [Server-1] Starting 
+2021/05/02 14:26:02 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 14:26:02 [Server-1] Started 
+2021/05/02 14:26:02 [AutoSet-7] Start 
+2021/05/02 14:26:03 [TcpAccept-3] 192.168.43.1:43255 
+2021/05/02 14:26:03 [869067030577018-192.168.43.1-10] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 15:03:56 [Server-1] Starting 
+2021/05/02 15:03:56 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 15:03:56 [Server-1] Started 
+2021/05/02 15:03:56 [AutoSet-7] Start 
+2021/05/02 15:04:00 [TcpAccept-3] 192.168.43.1:44641 
+2021/05/02 15:31:24 [Server-1] Starting 
+2021/05/02 15:31:24 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 15:31:24 [Server-1] Started 
+2021/05/02 15:31:24 [AutoSet-7] Start 
+2021/05/02 15:31:24 [TcpAccept-3] 192.168.43.1:47761 
+2021/05/02 15:31:24 [TcpAccept-3] 192.168.43.1:47763 
+2021/05/02 15:31:45 [869067030577018Dump-BeginDataProcess-12] System.InvalidOperationException: 端口被关闭。
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 cggApp.wsdcontrol.imageButton2_Press(Object sender, EventArgs e) 位置 C:\Users\86135\Desktop\cggApp\cggApp\wsdcontrol.cs:行号 142
+   在 Smobiler.Core.Controls.ImageButton.OnPress()
+   在 Smobiler.Core.Controls.ImageButton.(Object , EventArgs )
+   在 Smobiler.Core.Controls.Panel.()
+   在 Smobiler.Core.Controls.Panel.(String , Dictionary`2 )
+   在 Smobiler.Core.MobileClient.( )
+   在 Smobiler.Core.MobileClient.( ) 
+2021/05/02 15:31:55 [869067030577018Dump-BeginDataProcess-3] System.InvalidOperationException: 端口被关闭。
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 cggApp.wsdcontrol.imageButton2_Press(Object sender, EventArgs e) 位置 C:\Users\86135\Desktop\cggApp\cggApp\wsdcontrol.cs:行号 142
+   在 Smobiler.Core.Controls.ImageButton.OnPress()
+   在 Smobiler.Core.Controls.ImageButton.(Object , EventArgs )
+   在 Smobiler.Core.Controls.Panel.()
+   在 Smobiler.Core.Controls.Panel.(String , Dictionary`2 )
+   在 Smobiler.Core.MobileClient.( )
+   在 Smobiler.Core.MobileClient.( ) 
+2021/05/02 15:32:04 [Server-1] Starting 
+2021/05/02 15:32:04 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 15:32:04 [Server-1] Started 
+2021/05/02 15:32:04 [AutoSet-7] Start 
+2021/05/02 15:32:05 [TcpAccept-3] 192.168.43.1:47929 
+2021/05/02 15:34:30 [Server-1] Starting 
+2021/05/02 15:34:31 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 15:34:31 [Server-1] Started 
+2021/05/02 15:34:31 [TcpAccept-3] 192.168.43.1:46974 
+2021/05/02 15:34:31 [TcpAccept-11] 192.168.43.1:48098 
+2021/05/02 15:35:36 [Server-1] Starting 
+2021/05/02 15:35:36 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 15:35:36 [Server-1] Started 
+2021/05/02 15:35:36 [AutoSet-7] Start 
+2021/05/02 15:35:36 [TcpAccept-3] 192.168.43.1:49489 
+2021/05/02 15:36:08 [Server-1] Starting 
+2021/05/02 15:36:08 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 15:36:08 [Server-1] Started 
+2021/05/02 15:36:08 [AutoSet-7] Start 
+2021/05/02 15:36:08 [TcpAccept-3] 192.168.43.1:49587 
+2021/05/02 15:52:39 [Server-1] Starting 
+2021/05/02 15:52:39 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 15:52:40 [Server-1] Started 
+2021/05/02 15:52:41 [TcpAccept-3] 192.168.43.1:38266 
+2021/05/02 15:52:41 [TcpAccept-12] 192.168.43.1:38268 
+2021/05/02 15:54:20 [Server-1] Starting 
+2021/05/02 15:54:20 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 15:54:20 [Server-1] Started 
+2021/05/02 15:54:20 [AutoSet-7] Start 
+2021/05/02 15:54:21 [TcpAccept-3] 192.168.43.1:44077 
+2021/05/02 15:54:21 [TcpAccept-3] 192.168.43.1:46783 
+2021/05/02 15:56:14 [Server-1] Starting 
+2021/05/02 15:56:14 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 15:56:14 [Server-1] Started 
+2021/05/02 15:56:14 [AutoSet-7] Start 
+2021/05/02 15:56:15 [TcpAccept-3] 192.168.43.1:39674 
+2021/05/02 15:58:27 [Server-1] Starting 
+2021/05/02 15:58:27 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 15:58:27 [Server-1] Started 
+2021/05/02 15:58:27 [TcpAccept-3] 192.168.43.1:39958 
+2021/05/02 15:58:27 [TcpAccept-3] 192.168.43.1:39960 
+2021/05/02 16:06:57 [Server-1] Starting 
+2021/05/02 16:06:57 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 16:06:57 [Server-1] Started 
+2021/05/02 16:06:57 [AutoSet-7] Start 
+2021/05/02 16:06:58 [TcpAccept-3] 192.168.43.1:40360 
+2021/05/02 16:06:58 [TcpAccept-3] 192.168.43.1:40362 
+2021/05/02 16:58:01 [Server-1] Starting 
+2021/05/02 16:58:01 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 16:58:01 [Server-1] Started 
+2021/05/02 16:58:01 [AutoSet-7] Start 
+2021/05/02 16:58:01 [TcpAccept-3] 192.168.43.1:44008 
+2021/05/02 16:58:01 [TcpAccept-10] 192.168.43.1:44012 
+2021/05/02 17:01:31 [Server-1] Starting 
+2021/05/02 17:01:31 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 17:01:31 [Server-1] Started 
+2021/05/02 17:01:31 [AutoSet-7] Start 
+2021/05/02 17:01:53 [TcpAccept-3] 192.168.43.1:43379 
+2021/05/02 17:01:53 [869067030577018-192.168.43.1-8] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 17:02:00 [869067030577018Dump-BeginDataProcess-8] System.Exception: missing template
+   在 Smobiler.Core.Controls.GridView.(Object , String , Object[] )
+   在 Smobiler.Core.Controls.GridView.DataBind(Object[] params)
+   在 cggApp.wsdbiubiuForm.wsdbiubiuForm_Load(Object sender, EventArgs e) 位置 C:\Users\86135\Desktop\cggApp\cggApp\wsdbiubiuForm.cs:行号 30
+   在 Smobiler.Core.Controls.MobileParentControl.()
+   在 Smobiler.Core.Controls.MobileForm.()
+   在 Smobiler.Core.Controls.MobileForm.(FormRedirectCallBackEventHandler , Object )
+   在 Smobiler.Core.Controls.MobileForm.Show(MobileForm form, Boolean moveClose, FormRedirectCallBackEventHandler callback, Object args)
+   在 Smobiler.Core.Controls.MobileForm.Show(MobileForm form, FormRedirectCallBackEventHandler callback, Object args)
+   在 cggApp.mainForm.iconMenuView1_ItemPress(Object sender, IconMenuViewItemPressEventArgs e) 位置 C:\Users\86135\Desktop\cggApp\cggApp\mainForm.cs:行号 28
+   在 Smobiler.Core.Controls.IconMenuView.(IconMenuViewGroup , IconMenuViewItem )
+   在 Smobiler.Core.Controls.IconMenuViewGroup.(Object , EventArgs )
+   在 Smobiler.Core.Controls.IconMenuViewItem.(Object , EventArgs )
+   在 Smobiler.Core.Controls.Panel.()
+   在 Smobiler.Core.Controls.Panel.(String , Dictionary`2 )
+   在 Smobiler.Core.MobileClient.( )
+   在 Smobiler.Core.MobileClient.( ) 
+2021/05/02 17:02:16 [Server-1] Starting 
+2021/05/02 17:02:16 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 17:02:16 [Server-1] Started 
+2021/05/02 17:02:16 [AutoSet-7] Start 
+2021/05/02 17:02:18 [TcpAccept-3] 192.168.43.1:45284 
+2021/05/02 17:02:18 [869067030577018-192.168.43.1-10] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 17:15:22 [Server-1] Starting 
+2021/05/02 17:15:22 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 17:15:22 [Server-1] Started 
+2021/05/02 17:15:28 [TcpAccept-3] 192.168.43.1:45396 
+2021/05/02 17:15:28 [869067030577018-192.168.43.1-11] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 17:22:33 [Server-1] Starting 
+2021/05/02 17:22:33 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 17:22:33 [Server-1] Started 
+2021/05/02 17:22:35 [TcpAccept-3] 192.168.43.1:45500 
+2021/05/02 17:22:36 [869067030577018-192.168.43.1-11] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 17:24:17 [Server-1] Starting 
+2021/05/02 17:24:17 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 17:24:17 [Server-1] Started 
+2021/05/02 17:24:17 [AutoSet-7] Start 
+2021/05/02 17:24:18 [TcpAccept-3] 192.168.43.1:45568 
+2021/05/02 17:24:18 [869067030577018-192.168.43.1-10] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 20:32:42 [Server-1] Starting 
+2021/05/02 20:32:42 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 20:32:43 [Server-1] Started 
+2021/05/02 20:32:43 [AutoSet-7] Start 
+2021/05/02 20:32:46 [TcpAccept-3] 192.168.43.1:46148 
+2021/05/02 20:33:55 [Server-1] Starting 
+2021/05/02 20:33:56 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 20:33:56 [Server-1] Started 
+2021/05/02 20:33:56 [AutoSet-7] Start 
+2021/05/02 20:33:58 [TcpAccept-3] 192.168.43.1:46226 
+2021/05/02 20:33:58 [869067030577018-192.168.43.1-10] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 20:39:33 [Server-1] Starting 
+2021/05/02 20:39:34 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 20:39:34 [Server-1] Started 
+2021/05/02 20:39:34 [AutoSet-7] Start 
+2021/05/02 20:39:35 [TcpAccept-3] 192.168.43.1:46426 
+2021/05/02 20:39:35 [869067030577018-192.168.43.1-10] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 20:41:34 [Server-1] Starting 
+2021/05/02 20:41:34 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 20:41:34 [Server-1] Started 
+2021/05/02 20:41:34 [AutoSet-7] Start 
+2021/05/02 20:41:37 [TcpAccept-3] 192.168.43.1:46498 
+2021/05/02 20:41:37 [869067030577018-192.168.43.1-11] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 20:47:25 [Server-1] Starting 
+2021/05/02 20:47:25 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 20:47:25 [Server-1] Started 
+2021/05/02 20:47:25 [AutoSet-7] Start 
+2021/05/02 20:47:26 [TcpAccept-3] 192.168.43.1:46600 
+2021/05/02 20:47:26 [869067030577018-192.168.43.1-10] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 20:52:39 [Server-1] Starting 
+2021/05/02 20:52:39 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 20:52:39 [Server-1] Started 
+2021/05/02 20:52:42 [TcpAccept-3] 192.168.43.1:47768 
+2021/05/02 20:52:42 [869067030577018-192.168.43.1-11] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 20:53:32 [Server-1] Starting 
+2021/05/02 20:53:33 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 20:53:33 [Server-1] Started 
+2021/05/02 20:53:33 [AutoSet-7] Start 
+2021/05/02 20:53:35 [TcpAccept-3] 192.168.43.1:47836 
+2021/05/02 20:53:35 [869067030577018-192.168.43.1-11] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 20:54:05 [Server-1] Starting 
+2021/05/02 20:54:06 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 20:54:06 [Server-1] Started 
+2021/05/02 20:54:06 [AutoSet-7] Start 
+2021/05/02 20:54:08 [TcpAccept-3] 192.168.43.1:47948 
+2021/05/02 20:54:08 [869067030577018-192.168.43.1-11] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 20:54:12 [869067030577018Dump-BeginDataProcess-3] System.IndexOutOfRangeException: 无法找到表 1。
+   在 System.Data.DataTableCollection.get_Item(Int32 index)
+   在 cggApp.wsdbiubiuForm.wsdbiubiuForm_Load(Object sender, EventArgs e) 位置 C:\Users\86135\Desktop\cggApp\cggApp\wsdbiubiuForm.cs:行号 31
+   在 Smobiler.Core.Controls.MobileParentControl.()
+   在 Smobiler.Core.Controls.MobileForm.()
+   在 Smobiler.Core.Controls.MobileForm.(FormRedirectCallBackEventHandler , Object )
+   在 Smobiler.Core.Controls.MobileForm.Show(MobileForm form, Boolean moveClose, FormRedirectCallBackEventHandler callback, Object args)
+   在 Smobiler.Core.Controls.MobileForm.Show(MobileForm form, FormRedirectCallBackEventHandler callback, Object args)
+   在 cggApp.mainForm.iconMenuView1_ItemPress(Object sender, IconMenuViewItemPressEventArgs e) 位置 C:\Users\86135\Desktop\cggApp\cggApp\mainForm.cs:行号 28
+   在 Smobiler.Core.Controls.IconMenuView.(IconMenuViewGroup , IconMenuViewItem )
+   在 Smobiler.Core.Controls.IconMenuViewGroup.(Object , EventArgs )
+   在 Smobiler.Core.Controls.IconMenuViewItem.(Object , EventArgs )
+   在 Smobiler.Core.Controls.Panel.()
+   在 Smobiler.Core.Controls.Panel.(String , Dictionary`2 )
+   在 Smobiler.Core.MobileClient.( )
+   在 Smobiler.Core.MobileClient.( ) 
+2021/05/02 20:56:34 [Server-1] Starting 
+2021/05/02 20:56:34 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 20:56:34 [Server-1] Started 
+2021/05/02 20:56:34 [AutoSet-7] Start 
+2021/05/02 20:56:35 [TcpAccept-3] 192.168.43.1:48006 
+2021/05/02 20:56:35 [869067030577018-192.168.43.1-10] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 20:58:46 [Server-1] Starting 
+2021/05/02 20:58:46 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 20:58:46 [Server-1] Started 
+2021/05/02 20:58:46 [AutoSet-7] Start 
+2021/05/02 20:58:47 [TcpAccept-3] 192.168.43.1:48078 
+2021/05/02 20:58:47 [869067030577018-192.168.43.1-10] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 21:42:25 [Server-1] Starting 
+2021/05/02 21:42:25 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 21:42:26 [Server-1] Started 
+2021/05/02 21:42:59 [TcpAccept-3] 192.168.43.1:48336 
+2021/05/02 21:42:59 [869067030577018-192.168.43.1-8] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 21:48:37 [Server-1] Starting 
+2021/05/02 21:48:37 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 21:48:38 [Server-1] Started 
+2021/05/02 21:48:39 [TcpAccept-3] 192.168.43.1:49492 
+2021/05/02 21:48:39 [869067030577018-192.168.43.1-10] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 21:55:16 [Server-1] Starting 
+2021/05/02 21:55:16 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 21:55:16 [Server-1] Started 
+2021/05/02 21:55:16 [AutoSet-7] Start 
+2021/05/02 21:55:16 [TcpAccept-3] 192.168.43.1:49584 
+2021/05/02 21:55:16 [869067030577018-192.168.43.1-10] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 21:55:47 [Server-1] Starting 
+2021/05/02 21:55:48 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 21:55:48 [Server-1] Started 
+2021/05/02 21:55:48 [AutoSet-7] Start 
+2021/05/02 21:55:50 [TcpAccept-3] 192.168.43.1:49648 
+2021/05/02 21:55:50 [869067030577018-192.168.43.1-11] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 21:57:58 [Server-1] Starting 
+2021/05/02 21:57:59 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 21:57:59 [Server-1] Started 
+2021/05/02 21:57:59 [AutoSet-7] Start 
+2021/05/02 21:57:59 [TcpAccept-3] 192.168.43.1:49712 
+2021/05/02 21:57:59 [869067030577018-192.168.43.1-10] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 21:59:45 [Server-1] Starting 
+2021/05/02 21:59:45 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 21:59:45 [Server-1] Started 
+2021/05/02 21:59:45 [AutoSet-7] Start 
+2021/05/02 21:59:49 [TcpAccept-3] 192.168.43.1:49780 
+2021/05/02 21:59:49 [869067030577018-192.168.43.1-11] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 22:01:42 [Server-1] Starting 
+2021/05/02 22:01:42 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 22:01:42 [Server-1] Started 
+2021/05/02 22:01:42 [AutoSet-7] Start 
+2021/05/02 22:01:48 [TcpAccept-3] 192.168.43.1:48167 
+2021/05/02 22:01:48 [869067030577018-192.168.43.1-11] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 22:03:20 [Server-1] Starting 
+2021/05/02 22:03:20 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 22:03:21 [Server-1] Started 
+2021/05/02 22:03:21 [AutoSet-7] Start 
+2021/05/02 22:03:22 [TcpAccept-3] 192.168.43.1:38063 
+2021/05/02 22:03:22 [869067030577018-192.168.43.1-10] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 22:23:26 [Server-1] Starting 
+2021/05/02 22:23:26 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 22:23:26 [Server-1] Started 
+2021/05/02 22:23:26 [AutoSet-7] Start 
+2021/05/02 22:23:28 [TcpAccept-3] 192.168.43.1:38173 
+2021/05/02 22:27:47 [Server-1] Starting 
+2021/05/02 22:27:47 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 22:27:48 [Server-1] Started 
+2021/05/02 22:27:50 [TcpAccept-3] 192.168.43.1:39369 
+2021/05/02 22:27:50 [869067030577018-192.168.43.1-10] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 22:28:49 [Server-1] Starting 
+2021/05/02 22:28:49 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 22:28:49 [Server-1] Started 
+2021/05/02 22:28:49 [AutoSet-7] Start 
+2021/05/02 22:28:52 [TcpAccept-3] 192.168.43.1:39433 
+2021/05/02 22:28:52 [869067030577018-192.168.43.1-10] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 22:29:18 [Server-1] Starting 
+2021/05/02 22:29:18 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 22:29:18 [Server-1] Started 
+2021/05/02 22:29:18 [AutoSet-7] Start 
+2021/05/02 22:29:18 [TcpAccept-3] 192.168.43.1:39493 
+2021/05/02 22:29:19 [869067030577018-192.168.43.1-10] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 22:31:15 [Server-1] Starting 
+2021/05/02 22:31:15 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 22:31:15 [Server-1] Started 
+2021/05/02 22:31:15 [AutoSet-7] Start 
+2021/05/02 22:31:18 [TcpAccept-3] 192.168.43.1:39565 
+2021/05/02 22:31:18 [869067030577018-192.168.43.1-11] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 22:33:28 [Server-1] Starting 
+2021/05/02 22:33:28 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 22:33:28 [Server-1] Started 
+2021/05/02 22:33:30 [TcpAccept-3] 192.168.43.1:39633 
+2021/05/02 22:33:30 [869067030577018-192.168.43.1-11] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 22:34:08 [Server-1] Starting 
+2021/05/02 22:34:08 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 22:34:08 [Server-1] Started 
+2021/05/02 22:34:08 [AutoSet-7] Start 
+2021/05/02 22:34:09 [TcpAccept-3] 192.168.43.1:39695 
+2021/05/02 22:34:09 [869067030577018-192.168.43.1-10] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 22:34:54 [Server-1] Starting 
+2021/05/02 22:34:54 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 22:34:54 [Server-1] Started 
+2021/05/02 22:34:54 [AutoSet-7] Start 
+2021/05/02 22:34:57 [TcpAccept-3] 192.168.43.1:39751 
+2021/05/02 22:34:57 [869067030577018-192.168.43.1-10] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 22:36:08 [Server-1] Starting 
+2021/05/02 22:36:08 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 22:36:08 [Server-1] Started 
+2021/05/02 22:36:08 [AutoSet-7] Start 
+2021/05/02 22:36:11 [TcpAccept-3] 192.168.43.1:39815 
+2021/05/02 22:36:11 [869067030577018-192.168.43.1-11] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 22:40:26 [Server-1] Starting 
+2021/05/02 22:40:26 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 22:40:26 [Server-1] Started 
+2021/05/02 22:40:26 [AutoSet-7] Start 
+2021/05/02 22:40:27 [TcpAccept-3] 192.168.43.1:39883 
+2021/05/02 22:40:27 [869067030577018-192.168.43.1-10] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 22:41:40 [TcpAccept-17] 192.168.43.88:51552 
+2021/05/02 22:41:40 [a0e681efffef37e68bd849bf943768ed-192.168.43.88-17] {"deviceOS":"Android","deviceOSVersion":"10","deviceModel":"EBG-AN00","screenSize":{"width":1080,"height":2214},"density":2.549999952316284,"version":"6.3.0","coreVersion":"6.3.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-Hans-CN"]}} 
+2021/05/02 22:41:53 [a0e681efffef37e68bd849bf943768edDump-BeginDataProcess-16] System.InvalidOperationException: 端口被关闭。
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 cggApp.wsdcontrol.imageButton2_Press(Object sender, EventArgs e) 位置 C:\Users\86135\Desktop\cggApp\cggApp\wsdcontrol.cs:行号 153
+   在 Smobiler.Core.Controls.ImageButton.OnPress()
+   在 Smobiler.Core.Controls.ImageButton.(Object , EventArgs )
+   在 Smobiler.Core.Controls.Panel.()
+   在 Smobiler.Core.Controls.Panel.(String , Dictionary`2 )
+   在 Smobiler.Core.MobileClient.( )
+   在 Smobiler.Core.MobileClient.( ) 
+2021/05/02 22:47:19 [Server-1] Starting 
+2021/05/02 22:47:19 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 22:47:19 [Server-1] Started 
+2021/05/02 22:47:19 [AutoSet-7] Start 
+2021/05/02 22:47:19 [TcpAccept-3] 192.168.43.1:39993 
+2021/05/02 22:47:48 [869067030577018Dump-BeginDataProcess-13] System.InvalidOperationException: 端口被关闭。
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 cggApp.wsdcontrol.imageButton2_Press(Object sender, EventArgs e) 位置 C:\Users\86135\Desktop\cggApp\cggApp\wsdcontrol.cs:行号 153
+   在 Smobiler.Core.Controls.ImageButton.OnPress()
+   在 Smobiler.Core.Controls.ImageButton.(Object , EventArgs )
+   在 Smobiler.Core.Controls.Panel.()
+   在 Smobiler.Core.Controls.Panel.(String , Dictionary`2 )
+   在 Smobiler.Core.MobileClient.( )
+   在 Smobiler.Core.MobileClient.( ) 
+2021/05/02 22:49:19 [869067030577018-3] mainForm FormStackMaxCount exceed: 10 - mainForm<-myForm<-mainForm<-myForm<-mainForm<-myForm<-mainForm<-myForm<-mainForm<-cggForm1 
+2021/05/02 22:49:19 [869067030577018Dump-BeginDataProcess-3] System.Exception: mainForm FormStackMaxCount exceed: 10 - mainForm<-myForm<-mainForm<-myForm<-mainForm<-myForm<-mainForm<-myForm<-mainForm<-cggForm1
+   在 Smobiler.Core.Controls.MobileForm.Show(MobileForm form, Boolean moveClose, FormRedirectCallBackEventHandler callback, Object args)
+   在 Smobiler.Core.Controls.MobileForm.Show(MobileForm form, FormRedirectCallBackEventHandler callback, Object args)
+   在 cggApp.mainForm.toolBar1_ToolbarItemClick(Object sender, ToolbarClickEventArgs e) 位置 C:\Users\86135\Desktop\cggApp\cggApp\mainForm.cs:行号 45
+   在 Smobiler.Core.Controls.ToolBar.(ToolBarItem )
+   在 Smobiler.Core.Controls.ToolBarItem.(Object , EventArgs )
+   在 Smobiler.Core.Controls.Panel.()
+   在 Smobiler.Core.Controls.Panel.(String , Dictionary`2 )
+   在 Smobiler.Core.MobileClient.( )
+   在 Smobiler.Core.MobileClient.( ) 
+2021/05/02 22:51:49 [Server-1] Starting 
+2021/05/02 22:51:49 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 22:51:49 [Server-1] Started 
+2021/05/02 22:51:49 [AutoSet-7] Start 
+2021/05/02 22:51:51 [TcpAccept-3] 192.168.43.1:40745 
+2021/05/02 22:51:51 [869067030577018-192.168.43.1-10] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 22:52:37 [Server-1] Starting 
+2021/05/02 22:52:37 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 22:52:37 [Server-1] Started 
+2021/05/02 22:52:37 [AutoSet-7] Start 
+2021/05/02 22:52:38 [TcpAccept-3] 192.168.43.1:40817 
+2021/05/02 22:52:38 [869067030577018-192.168.43.1-10] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/02 22:52:58 [Server-1] Starting 
+2021/05/02 22:52:58 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/02 22:52:59 [Server-1] Started 
+2021/05/02 22:52:59 [TcpAccept-3] 192.168.43.1:40873 
+2021/05/02 22:52:59 [869067030577018-192.168.43.1-10] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 

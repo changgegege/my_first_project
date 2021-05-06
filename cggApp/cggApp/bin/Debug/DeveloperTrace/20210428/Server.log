@@ -1,0 +1,130 @@
+2021/04/28 13:31:18 [Server-1] Starting 
+2021/04/28 13:31:18 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/04/28 13:31:19 [Server-1] Started 
+2021/04/28 13:31:19 [AutoSet-7] Start 
+2021/04/28 13:31:25 [TcpAccept-3] 192.168.43.1:51432 
+2021/04/28 13:31:26 [a0e681efffef37e68bd849bf943768ed-192.168.43.1-10] {"deviceOS":"Android","deviceOSVersion":"10","deviceModel":"EBG-AN00","screenSize":{"width":1080,"height":2214},"density":2.549999952316284,"version":"6.3.0","coreVersion":"6.3.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-Hans-CN"]}} 
+2021/04/28 13:31:41 [a0e681efffef37e68bd849bf943768edDump-OnStart-10] System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接) ---> System.ComponentModel.Win32Exception (0x80004005): 系统找不到指定的文件。
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 cggApp.operate.OperateFillDataSet(String sql) 位置 C:\Users\86135\Desktop\cggApp\cggApp\operate.cs:行号 26
+   在 cggApp.cggForm1.cggForm1_Load(Object sender, EventArgs e) 位置 C:\Users\86135\Desktop\cggApp\cggApp\cggForm1.cs:行号 30
+   在 Smobiler.Core.Controls.MobileParentControl.()
+   在 Smobiler.Core.Controls.MobileForm.()
+   在 Smobiler.Core.Controls.MobileForm.(FormRedirectCallBackEventHandler , Object )
+   在 Smobiler.Core.MobileClient.(String )
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:2,State:0,Class:20 
+2021/04/28 13:31:41 [a0e681efffef37e68bd849bf943768ed-10] Stop-DUMP-True-- 
+2021/04/28 13:32:01 [TcpAccept-10] 192.168.43.1:51454 
+2021/04/28 13:32:01 [a0e681efffef37e68bd849bf943768ed-192.168.43.1-11] {"deviceOS":"Android","deviceOSVersion":"10","deviceModel":"EBG-AN00","screenSize":{"width":1080,"height":2214},"density":2.549999952316284,"version":"6.3.0","coreVersion":"6.3.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-Hans-CN"]}} 
+2021/04/28 13:32:16 [a0e681efffef37e68bd849bf943768edDump-OnStart-11] System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接) ---> System.ComponentModel.Win32Exception (0x80004005): 系统找不到指定的文件。
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 cggApp.operate.OperateFillDataSet(String sql) 位置 C:\Users\86135\Desktop\cggApp\cggApp\operate.cs:行号 26
+   在 cggApp.cggForm1.cggForm1_Load(Object sender, EventArgs e) 位置 C:\Users\86135\Desktop\cggApp\cggApp\cggForm1.cs:行号 30
+   在 Smobiler.Core.Controls.MobileParentControl.()
+   在 Smobiler.Core.Controls.MobileForm.()
+   在 Smobiler.Core.Controls.MobileForm.(FormRedirectCallBackEventHandler , Object )
+   在 Smobiler.Core.MobileClient.(String )
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:2,State:0,Class:20 
+2021/04/28 13:32:16 [a0e681efffef37e68bd849bf943768ed-11] Stop-DUMP-True-- 
+2021/04/28 13:32:20 [TcpAccept-11] 192.168.43.1:51460 
+2021/04/28 13:32:20 [a0e681efffef37e68bd849bf943768ed-192.168.43.1-15] {"deviceOS":"Android","deviceOSVersion":"10","deviceModel":"EBG-AN00","screenSize":{"width":1080,"height":2214},"density":2.549999952316284,"version":"6.3.0","coreVersion":"6.3.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-Hans-CN"]}} 
+2021/04/28 13:32:20 [a0e681efffef37e68bd849bf943768edDump-OnStart-15] System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接) ---> System.ComponentModel.Win32Exception (0x80004005): 系统找不到指定的文件。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 cggApp.operate.OperateFillDataSet(String sql) 位置 C:\Users\86135\Desktop\cggApp\cggApp\operate.cs:行号 26
+   在 cggApp.cggForm1.cggForm1_Load(Object sender, EventArgs e) 位置 C:\Users\86135\Desktop\cggApp\cggApp\cggForm1.cs:行号 30
+   在 Smobiler.Core.Controls.MobileParentControl.()
+   在 Smobiler.Core.Controls.MobileForm.()
+   在 Smobiler.Core.Controls.MobileForm.(FormRedirectCallBackEventHandler , Object )
+   在 Smobiler.Core.MobileClient.(String )
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:2,State:0,Class:20 
+2021/04/28 13:32:20 [a0e681efffef37e68bd849bf943768ed-15] Stop-DUMP-True-- 
+2021/04/28 13:32:24 [TcpAccept-11] 192.168.43.1:51462 
+2021/04/28 13:32:24 [a0e681efffef37e68bd849bf943768edDump-OnStart-15] System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接) ---> System.ComponentModel.Win32Exception (0x80004005): 系统找不到指定的文件。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 cggApp.operate.OperateFillDataSet(String sql) 位置 C:\Users\86135\Desktop\cggApp\cggApp\operate.cs:行号 26
+   在 cggApp.cggForm1.cggForm1_Load(Object sender, EventArgs e) 位置 C:\Users\86135\Desktop\cggApp\cggApp\cggForm1.cs:行号 30
+   在 Smobiler.Core.Controls.MobileParentControl.()
+   在 Smobiler.Core.Controls.MobileForm.()
+   在 Smobiler.Core.Controls.MobileForm.(FormRedirectCallBackEventHandler , Object )
+   在 Smobiler.Core.MobileClient.(String )
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:2,State:0,Class:20 
+2021/04/28 13:32:24 [a0e681efffef37e68bd849bf943768ed-15] Stop-DUMP-True-- 
+2021/04/28 13:32:42 [Server-1] Starting 
+2021/04/28 13:32:42 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/04/28 13:32:42 [Server-1] Started 
+2021/04/28 13:32:42 [AutoSet-7] Start 
+2021/04/28 13:32:43 [TcpAccept-3] 192.168.43.1:51478 
+2021/04/28 13:33:18 [TcpAccept-8] 192.168.43.1:51492 
+2021/04/28 13:33:18 [a0e681efffef37e68bd849bf943768ed-192.168.43.1-10] {"deviceOS":"Android","deviceOSVersion":"10","deviceModel":"EBG-AN00","screenSize":{"width":1080,"height":2214},"density":2.549999952316284,"version":"6.3.0","coreVersion":"6.3.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-Hans-CN"]}} 
+2021/04/28 22:51:06 [Server-1] Starting 
+2021/04/28 22:51:06 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug
+        DefaultImagePath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: C:\Users\86135\Desktop\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/04/28 22:51:06 [Server-1] Started 
+2021/04/28 22:51:06 [AutoSet-7] Start 
+2021/04/28 22:51:10 [TcpAccept-3] 192.168.43.1:44585 
+2021/04/28 22:51:10 [869067030577018-192.168.43.1-10] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 

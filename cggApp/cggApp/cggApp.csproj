@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C3DA86C9-6BB8-447C-9807-8BB5B97BC753}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>cggApp</RootNamespace>
+    <AssemblyName>cggApp</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Smobiler_128.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Smobiler.Utility" />
+    <Reference Include="Smobiler.Core" />
+    <Reference Include="Smobiler.Core.Controls" />
+    <Reference Include="Smobiler.Plugins" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="cgg_ksDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>cgg_ksDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="connection.cs" />
+    <Compile Include="frmGenerateQRcode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGenerateQRcode.Designer.cs">
+      <DependentUpon>frmGenerateQRcode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHelp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHelp.Designer.cs">
+      <DependentUpon>frmHelp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSetting.Designer.cs">
+      <DependentUpon>frmSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gridviewcontrol.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="gridviewcontrol.Designer.cs">
+      <DependentUpon>gridviewcontrol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="helpForm.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="helpForm.Designer.cs">
+      <DependentUpon>helpForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mainForm.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="mainForm.Designer.cs">
+      <DependentUpon>mainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MobileGlobal.cs" />
+    <Compile Include="myForm.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="myForm.Designer.cs">
+      <DependentUpon>myForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="operate.cs" />
+    <Compile Include="pageviewcontrol.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="pageviewcontrol.Designer.cs">
+      <DependentUpon>pageviewcontrol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="registerForm.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="registerForm.Designer.cs">
+      <DependentUpon>registerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="serialForm.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="serialForm.Designer.cs">
+      <DependentUpon>serialForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="cggForm1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="cggForm1.Designer.cs">
+      <DependentUpon>cggForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sexcontrol.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="sexcontrol.Designer.cs">
+      <DependentUpon>sexcontrol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tthresholdcontrol.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Tthresholdcontrol.Designer.cs">
+      <DependentUpon>Tthresholdcontrol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="watercontrol.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="watercontrol.Designer.cs">
+      <DependentUpon>watercontrol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="watergridviewcontrol.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="watergridviewcontrol.Designer.cs">
+      <DependentUpon>watergridviewcontrol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="waterhistoryForm.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="waterhistoryForm.Designer.cs">
+      <DependentUpon>waterhistoryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="waterthresholdcontrol.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="waterthresholdcontrol.Designer.cs">
+      <DependentUpon>waterthresholdcontrol.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wsdbiubiuForm.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="wsdbiubiuForm.Designer.cs">
+      <DependentUpon>wsdbiubiuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="wsdcontrol.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="wsdcontrol.Designer.cs">
+      <DependentUpon>wsdcontrol.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="cggForm1.resx">
+      <DependentUpon>cggForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGenerateQRcode.resx">
+      <DependentUpon>frmGenerateQRcode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHelp.resx">
+      <DependentUpon>frmHelp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSetting.resx">
+      <DependentUpon>frmSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gridviewcontrol.resx">
+      <DependentUpon>gridviewcontrol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="helpForm.resx">
+      <DependentUpon>helpForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainForm.resx">
+      <DependentUpon>mainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="myForm.resx">
+      <DependentUpon>myForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageviewcontrol.resx">
+      <DependentUpon>pageviewcontrol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="registerForm.resx">
+      <DependentUpon>registerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="serialForm.resx">
+      <DependentUpon>serialForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sexcontrol.resx">
+      <DependentUpon>sexcontrol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tthresholdcontrol.resx">
+      <DependentUpon>Tthresholdcontrol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="watercontrol.resx">
+      <DependentUpon>watercontrol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="watergridviewcontrol.resx">
+      <DependentUpon>watergridviewcontrol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="waterhistoryForm.resx">
+      <DependentUpon>waterhistoryForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="waterthresholdcontrol.resx">
+      <DependentUpon>waterthresholdcontrol.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wsdbiubiuForm.resx">
+      <DependentUpon>wsdbiubiuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wsdcontrol.resx">
+      <DependentUpon>wsdcontrol.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="cgg_ksDataSet.xsc">
+      <DependentUpon>cgg_ksDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="cgg_ksDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>cgg_ksDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="cgg_ksDataSet.xss">
+      <DependentUpon>cgg_ksDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Smobiler_128.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

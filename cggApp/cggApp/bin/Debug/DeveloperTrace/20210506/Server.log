@@ -1,0 +1,53 @@
+2021/05/06 16:29:35 [Server-1] Starting 
+2021/05/06 16:29:36 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: F:\2021上\ks\cggApp\cggApp\bin\Debug
+        DefaultImagePath: F:\2021上\ks\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: F:\2021上\ks\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: F:\2021上\ks\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: F:\2021上\ks\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: F:\2021上\ks\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: F:\2021上\ks\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/06 16:29:36 [AutoSet-7] Start 
+2021/05/06 16:29:36 [Server-1] Started 
+2021/05/06 16:31:29 [TcpAccept-3] 192.168.43.1:45266 
+2021/05/06 16:31:30 [869067030577018-192.168.43.1-8] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/06 16:35:05 [Server-1] Starting 
+2021/05/06 16:35:05 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: F:\2021上\ks\cggApp\cggApp\bin\Debug
+        DefaultImagePath: F:\2021上\ks\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: F:\2021上\ks\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: F:\2021上\ks\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: F:\2021上\ks\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: F:\2021上\ks\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: F:\2021上\ks\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/06 16:35:05 [Server-1] Started 
+2021/05/06 16:35:07 [TcpAccept-3] 192.168.43.1:45356 
+2021/05/06 16:35:25 [TcpAccept-10] 192.168.43.1:45364 
+2021/05/06 16:35:25 [869067030577018-192.168.43.1-12] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/06 16:45:23 [Server-1] Starting 
+2021/05/06 16:45:23 [Initial-1] Version: 610.16075, HttpServerPort: 2324, TcpServerPort: 2323, DeveloperTrace: Single, DebugMode: True, TracePrint: True, ClientTrace: False, EnableStackView: True, SessionTimeOut: 1800, NetworkTimeOut: 30, MirrorPatternMaxVerifyTimes: 3, FormStackMaxCount: 10, RelativeScreen: True, TextFontScaling: True, ResourceDenyLocation: , SysTrace: False
+        BasePath: F:\2021上\ks\cggApp\cggApp\bin\Debug
+        DefaultImagePath: F:\2021上\ks\cggApp\cggApp\bin\Debug\Resources\Image
+        DefaultAudioPath: F:\2021上\ks\cggApp\cggApp\bin\Debug\Resources\Audio
+        DefaultDocumentPath: F:\2021上\ks\cggApp\cggApp\bin\Debug\Resources\Document
+        DefaultUploadPath: F:\2021上\ks\cggApp\cggApp\bin\Debug\Resources\Upload
+        DefaultMediaPath: F:\2021上\ks\cggApp\cggApp\bin\Debug\Resources\Media
+        DefaultWebPath: F:\2021上\ks\cggApp\cggApp\bin\Debug\Resources\Web
+ 
+2021/05/06 16:45:24 [Server-1] Started 
+2021/05/06 16:45:24 [AutoSet-7] Start 
+2021/05/06 16:45:26 [TcpAccept-3] 192.168.43.1:46508 
+2021/05/06 16:45:27 [869067030577018-192.168.43.1-10] {"deviceOS":"Android","deviceOSVersion":"9","deviceModel":"MI 6X","screenSize":{"width":1080,"height":2030},"density":2.75,"version":"6.2.0","coreVersion":"6.2.0","autoBuild":false,"isCompany":true,"extraInfo":{"package_name":"com.smobiler.app","display_name":"Smobiler","plugin_msg":null,"lowMemory":false,"languages":["zh-CN"]}} 
+2021/05/06 16:51:16 [869067030577018Dump-BeginDataProcess-11] System.InvalidOperationException: 端口被关闭。
+   在 System.IO.Ports.SerialPort.Write(String text)
+   在 cggApp.wsdcontrol.imageButton2_Press(Object sender, EventArgs e) 位置 F:\2021上\ks\cggApp\cggApp\wsdcontrol.cs:行号 117
+   在 Smobiler.Core.Controls.ImageButton.OnPress()
+   在 Smobiler.Core.Controls.ImageButton.(Object , EventArgs )
+   在 Smobiler.Core.Controls.Panel.()
+   在 Smobiler.Core.Controls.Panel.(String , Dictionary`2 )
+   在 Smobiler.Core.MobileClient.( )
+   在 Smobiler.Core.MobileClient.( ) 
+2021/05/06 17:07:54 [TcpAccept-3] 192.168.43.1:47862 
+2021/05/06 17:07:54 [TcpAccept-3] 192.168.43.1:47870 
